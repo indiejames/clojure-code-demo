@@ -14,7 +14,7 @@
   (testing "Subtract two numbers"
     ;; Slow things down so we can see progess in the status bar.
     (Thread/sleep 2000)
-    (is (= 4 (- 5 1)))))
+    (is (= 4 (subtract 5 1)))))
 
 ;; This test gets an error
 (deftest multiply-test

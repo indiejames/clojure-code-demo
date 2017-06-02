@@ -1,4 +1,5 @@
-(ns clojure-code-demo.core)
+(ns clojure-code-demo.core
+  "Contains functions used to demo Clojure Code.")
 
 (defn add
   "Returns the sum of two numbers."

@@ -4,6 +4,7 @@
    [clojure.tools.namespace.repl :as repl]))
 
 (defn start
+  ;; In a real application this would actually start something.
   []
   (println "Start completed"))
 

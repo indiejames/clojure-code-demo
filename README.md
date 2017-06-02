@@ -16,7 +16,7 @@ This is a demo project for the [Clojure Code](https://marketplace.visualstudio.c
 3. Open `Preferences->Settings` from the menu and set 
   * `"clojure.leinPath"` to the absolute path to the `lein` executable on your system
   * `"clojure.toolsJar"` to the absolute path to the `tools.jar` file on your system (typially under the `lib` of your Java installation)
-3. Open `demos.md` from the project and follow the instructions.
+4. Open `demos.md` from the project and follow the instructions.
 
 
 ## License
